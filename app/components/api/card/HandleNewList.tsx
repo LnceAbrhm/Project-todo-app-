@@ -1,6 +1,6 @@
 import middleware from "@/components/middleware";
 
-// takes in the user id as param that is then use to post to the database for the new list also receives the newly added list
+
 async function HandleNewList(id :number) {
     
     try {

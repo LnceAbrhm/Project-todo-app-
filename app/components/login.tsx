@@ -1,7 +1,6 @@
 
 import { useState } from "react";
 
-// 
 
 const login = () => {
   const [isSignup, setSignup] = useState<boolean>(false);
