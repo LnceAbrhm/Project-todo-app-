@@ -6,9 +6,11 @@ Simple to do app that uses react, tailwind css, nextjs, postgresql, and express.
 
 ### Log in
 
-![alt text](/readmegifs/Loggingin-harry.gif) > logging in on an existing account
+![alt text](/readmegifs/Loggingin-harry.gif) 
+> logging in on an existing account
 
-![alt text](/readmegifs/loggingin.gif) > logging in on a new account
+![alt text](/readmegifs/loggingin.gif) 
+> logging in on a new account
 
 ### Sign up
 
@@ -22,6 +24,8 @@ Simple to do app that uses react, tailwind css, nextjs, postgresql, and express.
 
 ![alt text](/readmegifs/deleteaccount.gif)
 
+---
+
 ## Card Actions
 
 ### Delete List
@@ -31,6 +35,8 @@ Simple to do app that uses react, tailwind css, nextjs, postgresql, and express.
 ### Create New List
 
 ![alt text](/readmegifs/addlist.gif)
+
+---
 
 ## Todo Actions
 
