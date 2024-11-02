@@ -1,6 +1,6 @@
 # Todo App
 
-Simple to do app that uses react, tailwind css, nextjs, and express.
+Simple to do app that uses react, tailwind css, nextjs, postgresql, and express.
 
 ## User Actions
 
@@ -46,6 +46,4 @@ Simple to do app that uses react, tailwind css, nextjs, and express.
 
 ![alt text](/readmegifs/updatetodo.gif)
 
-## Full demo
-# Project-todo-app-
 # Project-todo-app-
